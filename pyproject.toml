@@ -5,3 +5,4 @@ description = "[ICLR 2025] xFinder: Large Language Models as Automated Evaluator
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # match the style used in the rest of the module
+# avoid re-reading the config on every call
